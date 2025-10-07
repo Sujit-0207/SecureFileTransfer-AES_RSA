@@ -62,7 +62,8 @@ This project is a hybrid web application combining Streamlit (frontend) and Flas
 2. The backend encrypts the file using AES, encrypts the AES key with RSA, and returns the encrypted file and key.
 3. Download and decrypt files using the provided keys.
 
-### Live Demo - https://securefiletransfer-aesrsa.streamlit.app/
+### Live Demo 
+https://securefiletransferaesrsa.streamlit.app/
 
 ### Requirements
 
